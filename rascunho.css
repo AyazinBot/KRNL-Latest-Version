@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+body {
+    text-decoration: none;
+
+}
+
+.header {
+    position: relative;
+    display: flex;
+    background: #fff;
+    justify-content: center;
+	align-items: center;
+    background-color: burlywood;
+    font-size: 40px;
+}
+
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+
+}
+
+nav li a:hover{
+    background-color: gray;
+}
+
+.dropdowm-menu {
+    position: relative;
+    border: gray;
+    box-shadow: black;
+    display: none;
+}
+
+.dropdowm-menu a {
+    display: block;
+    color: white;
+}
+
+.dropdowm:hover .dropdowm-menu{
+    display: block;
+}
+
+.imgga img {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    margin-right: 20px;
+    width: 600px;
+}
+
+.imgga h2 {
+    justify-content: center;
+    align-items: center;
+    line-height: 34px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    position: center;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+ol {
+    background-color: dimgrey;
+}
+
+.lix img { 
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px; 
+    left: 230px;
+}
