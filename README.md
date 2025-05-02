@@ -1,5 +1,5 @@
 # 🚀 KRNL Executor - Free Roblox Script Executor  
-[![Download KRNL Executor](https://img.shields.io/badge/Download-KRNL%20Executor-blueviolet)](../../releases)  
+[![Download KRNL Executor](https://img.shields.io/badge/Download-More%20Scripts-blueviolet)](https://github.com/topics/robloxscripts)  
 
 ## 📥 Getting Started  
 Getting started with **KRNL Executor** is fast and easy:  
